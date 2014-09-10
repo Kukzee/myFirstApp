@@ -1,0 +1,4 @@
+myFirstApp
+==========
+
+MyFirstMavenSeleniumProject
